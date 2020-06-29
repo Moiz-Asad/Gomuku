@@ -1,0 +1,36 @@
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\bin\Debug\Gomuku.exe.config
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\bin\Debug\Gomuku.exe
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\bin\Debug\Gomuku.pdb
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\obj\Debug\Gomuku.csprojResolveAssemblyReference.cache
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\obj\Debug\Gomuku.Gomuko.resources
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\obj\Debug\Gomuku.Properties.Resources.resources
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\obj\Debug\Gomuku.csproj.GenerateResource.Cache
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\obj\Debug\Gomuku.exe
+c:\users\l1f18bscs0336\documents\visual studio 2013\Projects\Gomuku\Gomuku\obj\Debug\Gomuku.pdb
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.exe.config
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.exe
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.Gomuko.resources
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.Properties.Resources.resources
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.csproj.GenerateResource.Cache
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.exe
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.pdb
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.pdb
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.exe.config
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.exe
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.pdb
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.exe
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.pdb
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.Gomuko.resources
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.Properties.Resources.resources
+C:\Users\Muhammad Moiz\Desktop\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.csproj.GenerateResource.Cache
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.exe.config
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.exe
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\bin\Debug\Gomuku.pdb
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.csprojAssemblyReference.cache
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.Gomuko.resources
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.Properties.Resources.resources
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.csproj.GenerateResource.cache
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.exe
+C:\Users\Muhammad Moiz\Desktop\OOP\Gomuku\Gomuku\Gomuku\Gomuku\obj\Debug\Gomuku.pdb
